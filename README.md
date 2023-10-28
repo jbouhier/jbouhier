@@ -1,9 +1,8 @@
 <!-- ### Hi there 👋 -->
-<h1>Hey there 👋🏻, I'm JB</h1>
+# Hey there 👋🏻, I'm JB
 
-<p>
- <em> Currently builting a video/fleet platform connecting surgical robots around the world at <a href="https://www.intuitive.com">Intuitive Surgical</a></em> 
-</p>
+
+ <em>Curently building a video/fleet platform connecting surgical robots at [Intuitive](https://www.intuitive.com)</em>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jbouhier.jbouhier)
 [![Linkedin: jbbouhier](https://img.shields.io/badge/JB-Bouhier-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbbouhier/)](https://www.linkedin.com/in/jbbouhier/)
