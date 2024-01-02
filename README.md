@@ -9,7 +9,7 @@
 [![Github](https://img.shields.io/github/followers/jbouhier?label=Follow&style=social)](https://github.com/jbouhier)
 
 - 🧑🏻‍💻 Software Engineer
-- 🌱 Gorwing AI skills
+- 🌱 Growing AI skills
 - 🌋 Gratuated from [ETNA](https://etna.io/) 
 - 🥋 Taekwondo black belt
 
