@@ -2,16 +2,16 @@
 # Hey there 👋🏻, I'm JB
 
 
- <em>Curently building a video/fleet platform connecting surgical robots at [Intuitive](https://www.intuitive.com)</em>
+ <em>Founding Engineer at [Empwr AI](https://www.empwr.ai/)</em>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jbouhier.jbouhier)
 [![Linkedin: jbbouhier](https://img.shields.io/badge/JB-Bouhier-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbbouhier/)](https://www.linkedin.com/in/jbbouhier/)
 [![Github](https://img.shields.io/github/followers/jbouhier?label=Follow&style=social)](https://github.com/jbouhier)
 
-- 🧑🏻‍💻 Senior Software Engineer 
-- 🌋Gratuated from [ETNA](https://etna.io/) 
-- 🌱 Learning AI
-- 🥋Taekwondo black belt
+- 🧑🏻‍💻 Software Engineer
+- 🌱 Gorwing AI skills
+- 🌋 Gratuated from [ETNA](https://etna.io/) 
+- 🥋 Taekwondo black belt
 
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jbbouhier/)
