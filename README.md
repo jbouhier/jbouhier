@@ -2,7 +2,7 @@
 # Hey there 👋🏻, I'm JB
 
 
- <em>Founding Software Engineer at [Empwr AI](https://www.empwr.ai/)</em>
+ <em>Founding Engineer @ [Empwr AI](https://www.empwr.ai/)</em>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jbouhier.jbouhier)
 [![Linkedin: jbbouhier](https://img.shields.io/badge/JB-Bouhier-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jbbouhier/)](https://www.linkedin.com/in/jbbouhier/)
