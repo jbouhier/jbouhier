@@ -1,5 +1,5 @@
 # Hey, I'm JB 👋
- <em>CEO @ [Not A Cat](https://notacatventures.com)</em> - Building startups
+ <em>Founder @ [Not A Cat](https://notacatventures.com)</em> - Bootstraping SaaS products
 
 - 🌋 Gratuated from [ETNA](https://etna.io) 
 - 🥋 Taekwondo black belt
