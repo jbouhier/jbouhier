@@ -2,6 +2,9 @@
   <img src="banner.png" alt="Banner">
 </p>
 
+<p></p>
+<p></p>
+
 <div align="center" style="color: #8b949e; font-size: 1.05em; letter-spacing: 0.3px; margin: 20px 0 30px 0;">
   <div style="margin-bottom: 10px;">
     <span style="font-weight: 500; opacity: 0.9;">Founder</span> 
@@ -11,6 +14,9 @@
     <span>Building <a href="https://stripeboost.com" style="color: #58a6ff; text-decoration: none;">StripeBoost</a></span>
   </div>
 </div>
+
+<p></p>
+<p></p>
 
 <div align="center" style="margin: 40px 0;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; row-gap: 14px;">
@@ -28,6 +34,9 @@
     </a>
   </div>
 </div>
+
+<p></p>
+<p></p>
 
 <div align="center" style="margin: 30px 0; color: #8b949e;">
   <span>🐱 I am not a cat</span>
