@@ -13,7 +13,7 @@
 ### 🚀 Currently building
 
 <a href="https://stripeboost.com" style="text-decoration: none; display: block;">
-  <div style="background: rgba(255, 255, 255, 0.03); border-radius: 12px; padding: 20px; margin: 20px 0; border: 1px solid rgba(255, 255, 255, 0.08); transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-2px)'; this.style.borderColor='rgba(88, 166, 255, 0.2)'; this.style.backgroundColor='rgba(88, 166, 255, 0.03)';" onmouseout="this.style.transform='none'; this.style.borderColor='rgba(255, 255, 255, 0.08)'; this.style.backgroundColor='rgba(255, 255, 255, 0.03)'">
+  <div style="background: #0d1117; border-radius: 12px; padding: 20px; margin: 20px 0; border: 1px solid #30363d; transition: all 0.3s ease; cursor: pointer;" onmouseover="this.style.transform='translateY(-2px)'; this.style.borderColor='#58a6ff'; this.style.backgroundColor='rgba(88, 166, 255, 0.05)';" onmouseout="this.style.transform='none'; this.style.borderColor='#30363d'; this.style.backgroundColor='#0d1117';">
     <h3 style="margin: 0 0 8px 0; display: flex; align-items: center; gap: 10px; color: #58a6ff;">
       <span style="width: 8px; height: 8px; background: #58a6ff; border-radius: 50%; display: inline-block;"></span>
       Stripe Boost
@@ -23,7 +23,7 @@
 </a>
 
 <!-- Social Links -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 30px 0;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin: 50px 0 30px 0;">
   <a href="https://twitter.com/jb_notacat" style="text-decoration: none;" title="Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00000000" alt="Twitter" style="height: 30px; width: auto; opacity: 0.8; transition: all 0.2s;" onmouseover="this.style.opacity='1'; this.style.transform='translateY(-2px)'" onmouseout="this.style.opacity='0.8'; this.style.transform='none'">
   </a>
