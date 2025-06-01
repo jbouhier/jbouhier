@@ -17,35 +17,26 @@
   </div>
 </div>
 
-<hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
+<ul>
+  <li>🐱 I am not a cat</li>
+  <li>🥋 Taekwondo black belt</li>
+  <li>🌋 <a href="https://etna.io">ETNA</a> graduate</li>
+</ul>
 
 <!-- Social Links -->
 <div align="center" style="margin: 40px 0;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-    <a href="https://twitter.com/jb_notacat" title="Twitter">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; row-gap: 14px;">
+    <a href="https://twitter.com/jb_notacat" title="Twitter" style="display: inline-block; padding: 4px 0;">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00000000" alt="Twitter" style="height: 30px;">
     </a>
-    <a href="https://bsky.app/profile/jb-notacat.bsky.social" title="Bluesky">
+    <a href="https://bsky.app/profile/jb-notacat.bsky.social" title="Bluesky" style="display: inline-block; padding: 4px 0;">
       <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=00000000" alt="Bluesky" style="height: 30px;">
     </a>
-    <a href="https://youtube.com/@jb-notacat" title="YouTube">
+    <a href="https://youtube.com/@jb-notacat" title="YouTube" style="display: inline-block; padding: 4px 0;">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=00000000" alt="YouTube" style="height: 30px;">
     </a>
-    <a href="https://www.linkedin.com/in/jbbouhier/" title="LinkedIn">
+    <a href="https://www.linkedin.com/in/jbbouhier/" title="LinkedIn" style="display: inline-block; padding: 4px 0;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00000000" alt="LinkedIn" style="height: 30px;">
     </a>
-  </div>
-</div>
-
-<hr style="border: 0; height: 1px; background: #30363d; margin: 30px 0;">
-
-<!-- Personal Details Footer -->
-<div align="center" style="color: #8b949e; margin: 40px 0 20px 0; padding-top: 20px; font-size: 0.9em;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; line-height: 1.6;">
-    <span>🐱 I am not a cat</span>
-    <span>•</span>
-    <span>🥋 Taekwondo black belt</span>
-    <span>•</span>
-    <a href="https://etna.io" style="color: #8b949e; text-decoration: none;" onmouseover="this.style.color='#58a6ff'" onmouseout="this.style.color='#8b949e'">🌋 ETNA graduate</a>
   </div>
 </div>
