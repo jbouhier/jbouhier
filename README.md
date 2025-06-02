@@ -18,21 +18,19 @@
 <p></p>
 <p></p>
 
-<div align="center" style="margin: 40px 0;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; row-gap: 14px;">
-    <a href="https://twitter.com/jb_notacat" title="Twitter" style="padding: 4px 0">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00000000" alt="Twitter" style="height: 30px;">
+<div align="center">
+    <a href="https://twitter.com/jb_notacat" title="Twitter">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00000000" alt="Twitter">
     </a>
-    <a href="https://bsky.app/profile/jb-notacat.bsky.social" title="Bluesky" style="padding: 4px 0">
-      <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=00000000" alt="Bluesky" style="height: 30px;">
+    <a href="https://bsky.app/profile/jb-notacat.bsky.social" title="Bluesky">
+      <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=00000000" alt="Bluesky">
     </a>
-    <a href="https://youtube.com/@jb-notacat" title="YouTube" style="padding: 4px 0;">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=00000000" alt="YouTube" style="height: 30px;">
+    <a href="https://youtube.com/@jb-notacat" title="YouTube">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=00000000" alt="YouTube">
     </a>
-    <a href="https://www.linkedin.com/in/jbbouhier/" title="LinkedIn" style="padding: 4px 0;">
+    <a href="https://www.linkedin.com/in/jbbouhier/" title="LinkedIn">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00000000" alt="LinkedIn">
     </a>
-  </div>
 </div>
 
 <p></p>
