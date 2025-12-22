@@ -10,8 +10,6 @@
     <span style="font-weight: 500; opacity: 0.9;">Founder</span> 
     <span style="opacity: 0.7;">@</span> 
     <a href="https://notacatventures.com" style="color: #58a6ff; text-decoration: none; font-weight: 500;">Not a cat</a>
-   <span style="opacity: 0.7; margin: 0 8px;">•</span>
-    <span>Building <a href="https://stripeboost.com" style="color: #58a6ff; text-decoration: none;">StripeBoost</a></span>
   </div>
 </div>
 
@@ -19,13 +17,13 @@
 <p></p>
 
 <div align="center">
-    <a href="https://twitter.com/jb_notacat" title="Twitter">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=00000000" alt="Twitter">
+    <a href="https://x.com/jb_bouhier" title="X">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=00000000" alt="Twitter/X">
     </a>
-    <a href="https://bsky.app/profile/jb-notacat.bsky.social" title="Bluesky">
+    <a href="https://bsky.app/profile/jbouhier.com" title="Bluesky">
       <img src="https://img.shields.io/badge/Bluesky-0085FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=00000000" alt="Bluesky">
     </a>
-    <a href="https://youtube.com/@jb-notacat" title="YouTube">
+    <a href="https://youtube.com/@jb-bouhier" title="YouTube">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=00000000" alt="YouTube">
     </a>
     <a href="https://www.linkedin.com/in/jbbouhier/" title="LinkedIn">
