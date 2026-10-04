@@ -1,6 +1,6 @@
 <div align="center">
 
-**Solo founder building startups**
+**Founder building startups**
 
 [jbouhier.com](https://jbouhier.com)
 
